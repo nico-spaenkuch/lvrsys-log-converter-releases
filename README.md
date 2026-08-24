@@ -4,15 +4,15 @@ Public binary releases and update feed for LVRSys Log Converter.
 
 ## Download
 
-Alle aktuellen Windows- und Linux-Pakete:
+Aktueller v0.7.0-Release für Windows und Linux:
 
-https://github.com/nico-spaenkuch/lvrsys-log-converter-releases/releases/latest
+https://github.com/nico-spaenkuch/lvrsys-log-converter-releases/releases/tag/v0.7.0
 
 ## Windows
 
-Empfohlen: `LVRSysLogConverter-<version>-win-x64-setup.exe`
+Empfohlen: `LVRSysLogConverter-0.7.0-win-x64-setup.exe`
 
-Direkter Download der aktuellen v0.7.0-Version:
+Direkter Download:
 
 https://github.com/nico-spaenkuch/lvrsys-log-converter-releases/releases/download/v0.7.0/LVRSysLogConverter-0.7.0-win-x64-setup.exe
 
@@ -24,7 +24,7 @@ Einzeilige Installation bzw. Aktualisierung:
 curl -fsSL https://raw.githubusercontent.com/nico-spaenkuch/lvrsys-log-converter-releases/main/install-linux.sh | sudo bash
 ```
 
-Alternativ kann das `.deb` aus dem aktuellen Release manuell heruntergeladen und installiert werden.
+Alternativ kann das `.deb` aus dem v0.7.0-Release manuell heruntergeladen und installiert werden.
 
 ## Hinweis
 
